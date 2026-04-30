@@ -1,0 +1,20 @@
+<!-- NAME STENCIL: black outline with white fill. Convert text to outlines before final cutting if your laser software does not embed fonts. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="115" viewBox="0 0 520 115">
+  <title>Matt Schutt name stencil</title>
+  <defs>
+    <style>
+      .name {
+        font-family: Bahnschrift, "Arial Black", Arial, sans-serif;
+        font-size: 58px;
+        font-weight: 900;
+        letter-spacing: 1px;
+      }
+    </style>
+  </defs>
+  <g id="BLACK_OUTLINE" fill="none" stroke="#000000" stroke-width="8" stroke-linejoin="round">
+    <text class="name" x="25" y="75">Matt Schutt</text>
+  </g>
+  <g id="WHITE_FILL" fill="#ffffff">
+    <text class="name" x="25" y="75">Matt Schutt</text>
+  </g>
+</svg>
