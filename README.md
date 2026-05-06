@@ -1,1 +1,1 @@
-# ECE445_Towfish_Magnetometer
+# ECE455_Towfish_Magnetometer
